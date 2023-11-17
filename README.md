@@ -15,17 +15,17 @@
 
 
 # პროექტში უნდა იყოს გამოყენებული
-- Display properties ( grid, flex, inline-block ... )
-- Text Formatting
-- Background Images
-- CSS variables ( ცვლადები ) 
-- Transitions ( hover effect... )
-- Keyframe animation
-- Positioning
-- Git, Github
-- CSS Box Model
-- Icons
-- HTML Inputs
+- [ ] Display properties ( grid, flex, inline-block ... )
+- [ ] Text Formatting
+- [ ] Background Images
+- [ ] CSS variables ( ცვლადები ) 
+- [ ] Transitions ( hover effect... )
+- [ ] Keyframe animation
+- [ ] Positioning
+- [ ] Git, Github
+- [ ] CSS Box Model
+- [ ] Icons
+- [ ] HTML Inputs
 
 
 
