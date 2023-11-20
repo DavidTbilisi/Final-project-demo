@@ -1,0 +1,80 @@
+section {
+    padding: 0 1rem;
+}
+
+button {
+    background-color: #3A4F39;
+    color: #fff;
+    border: 0px;
+    padding: 10px 20px;
+    border-radius: 4px;
+}
+
+.gray {
+    color: #919191;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+    gap: 1rem;
+}
+
+
+/* HERO */
+
+#hero {
+    display: flex;
+    gap: 10px;
+}
+
+#hero img {
+    width: 100%;
+}
+
+#hero h2 {
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+#hero p {
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 22px; /* 137.5% */
+}
+
+/* PRICES */
+
+#prices {
+    display: flex;
+    gap: 10px;
+    margin: 180px 0;
+}
+
+
+#prices .box {
+    padding: 25px;
+}
+
+#prices .box h2 {
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+#prices .green-box p {
+   margin: 24px 0;
+}
+
+.green-box {
+    background-color: #A0CD9E
+}
