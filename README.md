@@ -31,4 +31,14 @@
 
 
 
+https://www.figma.com/community/file/849342658995967505
+https://www.figma.com/community/file/882879599442878081
+https://www.figma.com/community/file/891374608655348853
+https://www.figma.com/community/file/1252561852327562039
+https://www.figma.com/community/file/1223524547709229019
+https://www.figma.com/community/file/1220344166061101624
+https://www.figma.com/community/file/1060098483912933594
+https://www.figma.com/community/file/1302328770970984511
+[Finance Website Concept - Full Web Mock-up 2022 | Figma Communit](https://www.figma.com/community/file/1271751279140741643)
 
+https://www.freefigmatemplates.com/website-designs-and-apps
